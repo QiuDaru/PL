@@ -13,7 +13,9 @@
 雲端地端連線
 
 commit 先保護後儲存
+
 pull 雲端拉地端 地端拉雲端
+
 [練習1](https://github.com/QiuDaru/PL/blob/main/python01.ipynb)
 
 
