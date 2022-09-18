@@ -18,7 +18,7 @@ pull 雲端拉地端 地端拉雲端
 不全背指令goole查 python geet
 
 [練習1](https://github.com/QiuDaru/PL/blob/main/python01.ipynb)
-
+[練習3](https://github.com/QiuDaru/PL/blob/main/%E7%B7%B4%E7%BF%923.ipynb)
 
 # 作業連結
 
