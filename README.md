@@ -23,3 +23,5 @@ pull 雲端拉地端 地端拉雲端
 
 # 作業連結
 
+#資源
+[datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs)
