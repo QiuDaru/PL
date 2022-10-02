@@ -25,4 +25,4 @@ pull 雲端拉地端 地端拉雲端
 
 #資源
 
-[datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs) 
+[datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs)  23.37
