@@ -24,7 +24,7 @@ pull 雲端拉地端 地端拉雲端
 
 # 作業連結
 [第一次作業](https://github.com/QiuDaru/PL/blob/main/%E7%AC%AC%E4%B8%80%E5%80%8B%E4%BD%9C%E6%A5%AD.ipynb)
-
+[datdfrme 練習](https://github.com/QiuDaru/PL/blob/main/ds%E7%B7%B4%E7%BF%92.ipynb)
 #資源
 
 [datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs)  23.37
