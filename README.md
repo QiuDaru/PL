@@ -20,11 +20,15 @@ pull 雲端拉地端 地端拉雲端
 導航配駕駛做討論
 
 [練習1](https://github.com/QiuDaru/PL/blob/main/python01.ipynb)
+
 [練習3](https://github.com/QiuDaru/PL/blob/main/%E7%B7%B4%E7%BF%923.ipynb)
 
-# 作業連結
-[第一次作業](https://github.com/QiuDaru/PL/blob/main/%E7%AC%AC%E4%B8%80%E5%80%8B%E4%BD%9C%E6%A5%AD.ipynb)
 [datdfrme 練習](https://github.com/QiuDaru/PL/blob/main/ds%E7%B7%B4%E7%BF%92.ipynb)
+
+# 作業連結
+
+[第一次作業](https://github.com/QiuDaru/PL/blob/main/%E7%AC%AC%E4%B8%80%E5%80%8B%E4%BD%9C%E6%A5%AD.ipynb)
+
 #資源
 
 [datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs)  23.37
