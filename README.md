@@ -29,7 +29,7 @@ pull 雲端拉地端 地端拉雲端
 # 第一次作業
 [第一次作業](https://github.com/QiuDaru/PL/blob/main/%E7%AC%AC%E4%B8%80%E5%80%8B%E4%BD%9C%E6%A5%AD.ipynb)
 問題解決: 使用文字檔將名字空白刪除
-
+# 第二次作業
 # 問題區
 檔案問題 原本應該是dict檔但顯示是list檔
 
