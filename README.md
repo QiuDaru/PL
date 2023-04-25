@@ -17,7 +17,6 @@ commit 先保護後儲存
 pull 雲端拉地端 地端拉雲端
 不全背指令goole查  python GeeksforGeeks
 
-導航配駕駛做討論
 
 [練習1](https://github.com/QiuDaru/PL/blob/main/python01.ipynb)
 
