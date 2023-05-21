@@ -39,6 +39,7 @@ pull 雲端拉地端 地端拉雲端
 list是[]
 # 第三次作業
 [第三次作業](https://github.com/QiuDaru/PL/blob/main/homework3.ipynb)
+[符號表](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
 # 資源
 
 [datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs)  23.37
