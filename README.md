@@ -31,11 +31,8 @@ pull 雲端拉地端 地端拉雲端
 # 第二次作業
 [第二次作業](https://github.com/QiuDaru/PL/blob/main/homework2.ipynb)
 問題在作業內
-# 問題區
-檔案問題 原本應該是dict檔但顯示是list檔,以解決
-檔案括號要改
-
-
+# 第三次作業
+[第三次作業](https://github.com/QiuDaru/PL/blob/main/homework3.ipynb)
 # 資源
 
 [datdfrme]  (https://www.youtube.com/watch?v=jF557RxtXFs)  23.37
